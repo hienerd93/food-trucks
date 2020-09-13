@@ -8,7 +8,7 @@
     "build": "NODE_ENV='production' webpack -p",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Prakhar Srivastav",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "react": "^16.13.1",
